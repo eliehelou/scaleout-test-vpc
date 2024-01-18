@@ -4,6 +4,6 @@ resource "aws_vpc" "my_vpc1" {
   enable_dns_hostnames = true
 
   tags = {
-    Name = "MyVPCv2"
+    Name = "MyVPCv3"
   }
 }
